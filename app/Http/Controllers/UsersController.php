@@ -9,7 +9,7 @@ use Session;
 use Validator;
 use Auth;
 use Input;
-use Uuid;
+``
 use Mail;
 use Keygen;
 use App\Mail\testMail;
